@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Why I should have a motorcycle</title>
+    <!-- Replace the content in the following line with your name. -->
+    <meta name="author" content="Juan">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+ 
+   </head>
+  <div> 
+  <body style="background-color:lightgreen;">
+   <!-- Replace the lines in this body with your content. -->
+
+ </div>
+
+
+   <h1>I need me a Motorcycle</h1>
+    <img src="download.jpeg"/> 
+  </body>
+  <div>
+  <p> </p>
+    <p>This website won't have anything that can be considered helpful in any smash game, this is all only for entertainment.</p>
+    <p>Check out another ice climber website that a friend of mine made.</p>
+  </div>
+    
+<p><a href="https://theiceclimbers.github.io/Curtis/">The Popo Website</a></p>
+<p><a href="secondpage.html">More</a></p>
+   
+
+  </body>
+</html>
+
